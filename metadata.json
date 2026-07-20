@@ -1,0 +1,6 @@
+{
+  "name": "StyleSense AI",
+  "description": "Your Personal AI Fashion Stylist. AI Outfit Generator, Color Analysis, Wardrobe Manager, Hairstyle, Makeup, and Shopping Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
