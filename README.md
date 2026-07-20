@@ -1,3 +1,4 @@
+live demo: https://ai.studio/apps/7af50dc0-871e-475d-a5ab-140cf5a3cbb4
 # StyleSense AI 👗✨
 
 StyleSense AI is an AI-powered fashion advisor that helps users discover outfits, match colors, receive styling recommendations, and build confidence through personalized fashion guidance.
